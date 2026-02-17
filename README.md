@@ -1,5 +1,13 @@
-# Customer Churn Prediction
 
+# Customer Churn Prediction
+## 🌐 Live Demo
+
+The model has been deployed using Hugging Face Spaces.
+
+You can test the churn prediction system here:
+
+🔗 https://huggingface.co/spaces/Harsshini/Feature_Engineering
+For input use sample_input.csv uploaded in Git repo
 ## Problem Statement
 
 Customer churn prediction helps businesses identify customers who are likely to discontinue a service. Early detection enables proactive retention strategies and reduces revenue loss.
@@ -73,4 +81,5 @@ Models were evaluated using:
 ## Outcome
 
 The final optimized model achieves strong recall while maintaining balanced precision, making it suitable for real-world churn prevention and customer retention strategies.
+
 
