@@ -83,5 +83,42 @@ Models were evaluated using:
 
 The final optimized model achieves strong recall while maintaining balanced precision, making it suitable for real-world churn prevention and customer retention strategies.
 
+# ▶️ How to Run This Project
+
+### 🔹 1. Install Required Libraries
+Make sure the following libraries are installed:
+pip install pandas numpy matplotlib seaborn scikit-learn xgboost joblib
+
+### 🔹 2. Run the Notebook
+- Open `Feature_engineering_task.ipynb`
+- Run all cells sequentially from top to bottom.
+
+Ensure the dataset file:
+Customer_churn_telco_dataset.csv
+
+is present in the same directory.
+
+---
+
+### 🔹 3. Run Prediction on New Data
+To test the model on unseen data:
+
+- Place `sample_input.csv` in the same folder.
+- Run the final prediction cell.
+- The output will display:
+  - Churn Probability
+  - Predicted Churn (0 or 1)
+
+---
+
+### 🔹 4. Use Deployed Application (Optional)
+You can also test the model using the deployed Hugging Face Space:
+
+🔗 https://huggingface.co/spaces/Harsshini/Feature_Engineering
+
+
+
+
+
 
 
