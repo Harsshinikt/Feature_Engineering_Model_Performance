@@ -88,7 +88,9 @@ The final optimized model achieves strong recall while maintaining balanced prec
 ### 🔹 1. Install Required Libraries
 Make sure the following libraries are installed:
 
+```bash
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost joblib
+```
 
 ### 🔹 2. Run the Notebook
 - Open `Feature_engineering_task.ipynb`
@@ -116,6 +118,7 @@ To test the model on unseen data:
 You can also test the model using the deployed Hugging Face Space:
 
 🔗 https://huggingface.co/spaces/Harsshini/Feature_Engineering
+
 
 
 
