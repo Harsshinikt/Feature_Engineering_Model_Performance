@@ -1,6 +1,6 @@
 
 # Customer Churn Prediction
-## 🌐 Live Demo
+## Live Demo
 
 The model has been deployed using Hugging Face Spaces.
 
@@ -83,7 +83,7 @@ Models were evaluated using:
 
 The final optimized model achieves strong recall while maintaining balanced precision, making it suitable for real-world churn prevention and customer retention strategies.
 
-# ▶️ How to Run This Project
+# How to Run This Project
 
 ### 🔹 1. Install Required Libraries
 Make sure the following libraries are installed:
@@ -116,6 +116,7 @@ To test the model on unseen data:
 You can also test the model using the deployed Hugging Face Space:
 
 🔗 https://huggingface.co/spaces/Harsshini/Feature_Engineering
+
 
 
 
