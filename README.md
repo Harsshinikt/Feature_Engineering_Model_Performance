@@ -97,9 +97,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost joblib
 - Run all cells sequentially from top to bottom.
 
 Ensure the dataset file:
-Customer_churn_telco_dataset.csv
-
-is present in the same directory.
+Customer_churn_telco_dataset.csv is present in the same directory.
 
 ---
 
@@ -118,6 +116,7 @@ To test the model on unseen data:
 You can also test the model using the deployed Hugging Face Space:
 
 🔗 https://huggingface.co/spaces/Harsshini/Feature_Engineering
+
 
 
 
